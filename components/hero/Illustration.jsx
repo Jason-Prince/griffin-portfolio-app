@@ -1,4 +1,4 @@
-import styles from "./styles.module.css";
+import styles from "./styles.module.scss";
 
 const Illustration = () => {
   return <div className="styles.illustration">illustration here</div>;

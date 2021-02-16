@@ -1,4 +1,4 @@
-import styles from "./styles.module.css";
+import styles from "./styles.module.scss";
 import Logo from "./Logo";
 
 const Header = () => {
